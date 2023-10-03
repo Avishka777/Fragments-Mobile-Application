@@ -32,7 +32,7 @@ class HomeFragment : Fragment() {
         }
     }
 
-    //Changed Section
+    //Changed Sections
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
